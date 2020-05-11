@@ -24,7 +24,6 @@ import kotlinx.android.synthetic.main.fragment_app_updater_dialog.*
 /**
  * Shows ForceUpdate Dialog Fragment
  */
-//testttttttttttttt
 class AppUpdaterDialog : DialogFragment() {
 
     override fun onCreateView(

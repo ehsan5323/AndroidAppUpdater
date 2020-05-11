@@ -7,7 +7,6 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:background="@color/appupdater_light_blue"
         android:layout_height="wrap_content">
 
         <androidx.constraintlayout.widget.ConstraintLayout
@@ -20,7 +19,7 @@
                 android:layout_height="100dp"
                 android:layout_marginTop="16dp"
                 android:contentDescription="@string/update_icon"
-                android:src="@drawable/appupdater_ic_cloud"
+                android:src="@drawable/ic_cloud_update"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
